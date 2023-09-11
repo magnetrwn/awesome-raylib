@@ -172,6 +172,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [gtk-raylib][137] | [hbiblia][138] | [GTK][139] integration with raylib. |
 | [gastar][140] | [impzero][141] | Algorithm implemented in Go visualized using raylib. |
 | [raylib-physfs][142] | [RobLoach][75] | Provides integration with the virtual file system [PhysicsFS][143] |
+| [raylib-assetsys](https://github.com/RobLoach/raylib-assetsys) | [RobLoach][75] | Load raylib assets from .zip files with [assetsys.h](https://github.com/mattiasgustavsson/libs/blob/main/assetsys.h) |
 | [Paper][144] | [thyliverman][135] | C++ rewrite of [PaperSDL][134], dedicated to making raylib just a little easier to work with. |
 | [Animator-For-Raylib][145] | [AliElSaleh][146] | C/C++ Animator lib. |
 | [TestFrame][147] | [JeffM2501][12] | Test framework that uses raylib and ImGui together to help test and develop concept and uses C++ classes for windows and views. |
