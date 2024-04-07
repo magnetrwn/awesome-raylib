@@ -705,7 +705,8 @@ CHECKPOINT
 | [Nachasic][548] | [vicarious-rs][549] | Gamedev experiments with raylib and Rust. |
 | [raylib-rs-play_sound_multi][550] | [buribalazs][551] | Example to demonstrate a crash on Windows 10 written in Rust. |
 | [rts][552] | [teh-cmc][553] | Building an RTS the old way, with Rust, raylib & Emscripten. |
-[ [raylib_ffi_bug][554] | [jestarray][555] | Incorrect FFI call which turning bool to a random number, Written in Rust. |
+| [raylib_ffi_bug][554] | [jestarray][555] | Incorrect FFI call which turning bool to a random number, Written in Rust. |
+| [raylib-bubbles][630] | [magnetrwn][631] | C++11 Raylib bubble shooter example, with thorough documentation. |
 
 [351]: https://github.com/ProfJski/WaveEquationDemo
 [352]: https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation
@@ -912,6 +913,8 @@ CHECKPOINT
 [553]: https://github.com/teh-cmc
 [554]: https://github.com/jestarray/raylib_ffi_bug
 [555]: https://github.com/jestarray
+[630]: https://github.com/magnetrwn/raylib-bubbles
+[631]: https://github.com/magnetrwn
 
 ### Templates
 
